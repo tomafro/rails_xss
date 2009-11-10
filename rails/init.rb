@@ -12,3 +12,4 @@ end
 
 require 'rails_xss_escaping'
 require 'av_patch'
+require 'link_to_patch'
